@@ -1,0 +1,30 @@
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll.config
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.pdb
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.pdb
+E:\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.csprojResolveAssemblyReference.cache
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll.config
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.pdb
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.csprojResolveAssemblyReference.cache
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll.config
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.pdb
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll.config
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.pdb
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.csprojResolveAssemblyReference.cache
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.pdb
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll.config
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.dll
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\bin\Debug\PrejetStage_Library.pdb
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.csproj.AssemblyReference.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.csproj.CoreCompileInputs.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.dll
+C:\Users\BiggyStudio\Desktop\ProjetStage\PrejetStage_Library\obj\Debug\PrejetStage_Library.pdb

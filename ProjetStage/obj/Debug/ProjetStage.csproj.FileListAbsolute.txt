@@ -1,0 +1,152 @@
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Design.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Fonts.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.dll
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.pdb
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csprojResolveAssemblyReference.cache
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.Cache
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.cache
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.compiled
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+E:\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Design.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Fonts.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.dll
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.pdb
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csprojResolveAssemblyReference.cache
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.Cache
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.cache
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.compiled
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+G:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Design.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Fonts.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.dll
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.pdb
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csprojResolveAssemblyReference.cache
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.Cache
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.cache
+F:\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.compiled
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Design.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\MetroFramework.Fonts.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.dll
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\bin\Debug\PrejetStage_Library.pdb
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csprojResolveAssemblyReference.cache
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.Cache
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.cache
+F:\Marouane\Tout\PC-HP\lecteur E\marouane\M09 developpement d'application client server\ProjetStage\ProjetStage\obj\Debug\RdlCompile.compiled
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.AssemblyReference.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.SuggestedBindingRedirects.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\BiggyStudio\Desktop\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.AssemblyReference.cache
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.SuggestedBindingRedirects.cache
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_Congé.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Ajouter_un_congé.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Calender_CongeAdm.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.CompteRendu.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Mise_a_jour_conge.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_Conge.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Congé.Modifier_un_conge.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormLogin.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMajPers.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FrmEtat.frmFicheRenseignement.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.FormMenu.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.NoteService.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Recherche.resources
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\BiggyStudio\Desktop\project upload to github\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb

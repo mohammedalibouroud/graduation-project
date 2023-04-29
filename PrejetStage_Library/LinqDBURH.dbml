@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Bd_Projet" Class="LinqDBURHDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Bd_Projet;Integrated Security=True" SettingsObjectName="PrejetStage_Library.Properties.Settings" SettingsPropertyName="Bd_ProjetConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Grade" Member="Grades">
+    <Type Name="Grade">
+      <Column Name="CodeGrade" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LibelleGradeFr" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="LibelleGradeAr" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Cadre" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NumeroCadreClassement" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Cadre_Grade" Member="Cadre1" ThisKey="Cadre" OtherKey="IDCadre" Type="Cadre" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cadre" Member="Cadres">
+    <Type Name="Cadre">
+      <Column Name="IDCadre" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CadreAr" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="CadreFR" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Cadre_Grade" Member="Grades" ThisKey="IDCadre" OtherKey="Cadre" Type="Grade" />
+      <Association Name="Cadre_Specialite" Member="Specialites" ThisKey="IDCadre" OtherKey="Cadre" Type="Specialite" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Specialite" Member="Specialites">
+    <Type Name="Specialite">
+      <Column Name="CodeSpecialite" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LibelleSpecialiteFR" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="LibelleSpecialiteAR" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Cadre" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TypePersonnel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Cadre_Specialite" Member="Cadre1" ThisKey="Cadre" OtherKey="IDCadre" Type="Cadre" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

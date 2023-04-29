@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqDBURH">
+  <DataContextMoniker Name="/LinqDBURHDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a4ee5c1f-68ed-43bf-9cb1-f7e19c0d5379" absoluteBounds="4.375, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LinqDBURHDataContext/Grade" />
+      <nestedChildShapes>
+        <elementListCompartment Id="809c3825-bc88-4c40-be34-d9240d7ef038" absoluteBounds="4.3900000000000006, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e1c0294a-9e9b-457d-957a-9e45f6e7cd96" absoluteBounds="1, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqDBURHDataContext/Cadre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5963448b-241e-4bb2-b4a5-4b8c43b88c56" absoluteBounds="1.0150000000000001, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 1.69314697265625); (4.375 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqDBURHDataContext/Cadre/Cadre_Grade" />
+      <nodes>
+        <classShapeMoniker Id="e1c0294a-9e9b-457d-957a-9e45f6e7cd96" />
+        <classShapeMoniker Id="a4ee5c1f-68ed-43bf-9cb1-f7e19c0d5379" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="735ac135-1f4c-480e-ad24-2a8aca98561e" absoluteBounds="1.75, 4.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/LinqDBURHDataContext/Specialite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c597fe86-e9ba-41b5-b796-0a4436a8b2fd" absoluteBounds="1.7650000000000001, 4.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.375 : 2.3862939453125); (2.375 : 4.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqDBURHDataContext/Cadre/Cadre_Specialite" />
+      <nodes>
+        <classShapeMoniker Id="e1c0294a-9e9b-457d-957a-9e45f6e7cd96" />
+        <classShapeMoniker Id="735ac135-1f4c-480e-ad24-2a8aca98561e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
